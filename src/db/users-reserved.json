@@ -1,0 +1,46 @@
+[
+    {
+       "userId": 1,
+        "books": [2, 4]
+    },
+    {
+        "userId": 7,
+        "books": [1, 9, 26]
+    },
+    {
+        "userId": 5,
+        "books": [7, 18, 10]
+    },
+    {
+        "userId": 11,
+        "books": [30, 25]
+    },
+    {
+        "userId": 18,
+        "books": [24]
+    },
+    {
+        "userId": 4,
+        "books": [17, 23]
+    },
+    {
+        "userId": 23,
+        "books": [19, 29]
+    },
+    {
+        "userId": 8,
+        "books": [11, 3, 14]
+    },
+    {
+        "userId": 9,
+        "books": [23, 6, 16]
+    },
+    {
+        "userId": 24,
+        "books": [5, 18]
+    },
+    {
+        "userId": 26,
+        "books": [28, 8, 16]
+    }
+]
